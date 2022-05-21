@@ -41,7 +41,7 @@ $ make setup-slack
 ## Configuration
 You need to provide your own OPENAI API key (Required)
 ```
-$ export OPENAI_API_KEY=<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>
+$ export OPENAI_API_KEY=<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>
 ```
 You can get one by signing up for free here 👉 https://openai.com/api/
 
