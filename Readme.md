@@ -136,7 +136,7 @@ $ make test
 
 ## ✍️  Author
 
-Badr BADRI @pythops
+Deepak Shelar (Genica)
 
 <br>
 
