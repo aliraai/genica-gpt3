@@ -10,7 +10,7 @@
 ## 💫 Demo
 Here is a free and publicly available instance that you can play with
 
-**https://amagpt3.com**
+
 
 <br>
 
@@ -142,8 +142,6 @@ Deepak Shelar (Genica)
 
 ## ⚖️  License
 AGPLv3
-
-Copyright © 2022 Badr BADRI @pythops
 
 <br>
 
