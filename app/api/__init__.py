@@ -2,6 +2,7 @@ import quart.flask_patch  # noqa
 from quart import Quart
 from quart_rate_limiter import RateLimiter
 
+
 from app import http
 
 rate_limiter = RateLimiter()
